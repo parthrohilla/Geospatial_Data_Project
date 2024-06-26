@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+
+<Folder>
+<name>Home</name>
+  <Placemark>
+   <name>Home</name>
+    <Point>
+      <coordinates> -118.2879257,34.0298569</coordinates>
+    </Point>
+  </Placemark>
+</Folder>
+
+<Folder>
+<name>USC Rossier</name>
+<Placemark>
+<name>Masters of Arts in Teaching Program</name>
+<styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.2839276,34.021956</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+ <name>Pullias center for Higher Education</name>
+ <styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.2838932,34.0219688</coordinates>
+    </Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>USC Price School</name>
+<Placemark> 
+    <name>Real Estate</name>
+    <styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.283314,34.0191729</coordinates>
+    </Point>
+</Placemark>
+<Placemark><name>Philanthropy</name>
+<styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.2837324,34.0209621</coordinates>
+    </Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Marshall School</name>
+<Placemark>
+<name>Accounting</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2856953, 34.01919</coordinates></Point>
+</Placemark>
+<Placemark><name>Data Sciences and Operations</name>
+<styleUrl>#z1</styleUrl><Point>
+<coordinates>-118.2859271, 34.0187576</coordinates>
+</Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Annenberg School</name>
+<Placemark><name>Jounalism Department</name>
+<styleUrl>#z1</styleUrl><Point>
+<coordinates>-118.2864141,34.0220888</coordinates></Point>
+</Placemark>
+<Placemark><name>Communication Department</name>
+<styleUrl>#z1</styleUrl><Point>
+<coordinates>-118.2864793, 34.0220057</coordinates></Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Dornsife School</name>
+<Placemark>
+<name>Military Science</name>
+<styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.2867696, 34.0212354</coordinates>
+    </Point>
+</Placemark>
+<Placemark>
+    <name>Earth Sciences</name>
+    <styleUrl>#z1</styleUrl>
+    <Point>
+      <coordinates>-118.2861611, 34.0195088</coordinates>
+    </Point>
+</Placemark>
+</Folder>
+
+<Folder>
+<name>Viterbi School of Engineering</name>
+<Placemark><name>Chemical</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.2882543,34.0200496</coordinates></Point>
+</Placemark>
+<Placemark><name>Electrical</name>
+<styleUrl>#z1</styleUrl><Point><coordinates>-118.288083, 34.0204276</coordinates></Point>
+</Placemark>
+</Folder>
+</Document>
+</kml>
